@@ -1,0 +1,21 @@
+.card {
+    background-color: #f0f0f0;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .card-header {
+    text-align: center;
+  }
+  
+  .card-body .btn {
+    margin-right: 0.5rem;
+  }
+  
+  .search-bar {
+    margin-bottom: 1rem;
+  }
+  
